@@ -12,5 +12,5 @@ PACKAGES = "\
 
 RDEPENDS:${PN} = " \
     ros2-humble-ldconfig \
-    flutter-ros-demo
+    flutter-ros-demo \
 "
